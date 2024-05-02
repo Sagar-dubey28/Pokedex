@@ -1,0 +1,21 @@
+.pokemon-details-name{
+    font-size: x-large;
+    padding: 7px;
+    margin-bottom: 5px;
+    text-transform: capitalize;
+
+}
+.pokemon-details-image{
+    max-height: 250px;
+}
+.pokemon-details-types{
+    display: flex;
+    justify-content: space-around;
+   
+}
+.pokemon-details-types div{
+    border: 1px solid burlywood;
+    background-color: beige;
+    border-radius: 5px;
+    padding: 12px;
+}
